@@ -1,0 +1,5 @@
+ipywidgets
+sagemaker
+boto3
+black
+pylint
